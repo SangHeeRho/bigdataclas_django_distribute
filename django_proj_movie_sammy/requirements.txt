@@ -5,3 +5,4 @@ django-bootstrap-v5==1.0.5
 
 # 아래 패키지는 linux에서만 설치되는 것.
 django-heroku
+gunicorn
